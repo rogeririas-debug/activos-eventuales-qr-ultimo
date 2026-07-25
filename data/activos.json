@@ -1,0 +1,15 @@
+{
+  "activo001": {
+    "nombre": "Casa en Res. Las Colinas, Tegucigalpa",
+    "precio": "L. 2,850,000",
+    "descripcion": "Casa de 2 niveles, 3 habitaciones, 2.5 baños, sala, comedor, cocina integral, garaje techado para 2 vehículos, área de lavandería y jardín. Ubicada en la Residencial Las Colinas, Tegucigalpa, en zona residencial con seguridad privada 24/7.",
+    "area_terreno": "320 m²",
+    "area_construccion": "210 m²",
+    "habitaciones": 3,
+    "banos": 2.5,
+    "garaje": "2 vehículos, techado",
+    "estado": "Disponible para venta directa por el banco (activo eventual)",
+    "condiciones_venta": "Se acepta pago de contado o financiamiento con el banco. Requiere avalúo previo aprobado por el comité de activos eventuales.",
+    "contacto": "Gerencia de Activos Eventuales, sucursal principal Tegucigalpa"
+  }
+}
